@@ -12,7 +12,6 @@ FileServerRootPath = "C:\\dev\\bear_run\\storage"
 LogoPath = "C:\\dev\\bear_run\\resources\\logos"
 FavIconPath = "C:\\dev\\bear_run\\resources\\favicon"
 EmailImagesRootPath = "C:\\dev\\bear_run\\email\\images"
-FileServerRootPath = "C:\\dev\\bear_run\\files"  # Defina este para o local de armazenamento
 RedirectUrl = "http://localhost:8080"
 HTMLRootPath = "C:\\dev\\bear_run\\resources\\html"
 
